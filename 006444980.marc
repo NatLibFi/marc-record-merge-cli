@@ -1,0 +1,82 @@
+LDR    00000cam^a22009614i^4500
+001    006444980
+003    FI-MELINDA
+005    20161201140834.0
+008    131021s2013^^^^fi^|||||||||||00||0|swe|c
+015    ‡afx1036635‡2skl
+020    ‡a978-952-495-317-7‡qnidottu
+035    ‡a(FI-MELINDA)006444980
+040    ‡aFI-NL
+041 1  ‡aswe‡hfin
+042    ‡afinb
+072  7 ‡a65‡2kkaa
+080    ‡a327‡9FENNI<KEEP>
+080    ‡a339.5/.9‡9FENNI<KEEP>
+084    ‡a32.51‡2ykl‡9FENNI<KEEP>
+130 0  ‡aEuroopan paras maa?,‡lruotsi.
+245 00 ‡aEuropas bästa land? :‡bFinlands roll i förändring i Europeiska unionen /‡credigerad av Tapio Raunio & Juho Saari ; [översättning: Katri Silfverberg].
+260    ‡aHelsinki :‡bGaudeamus,‡c2013‡e(Kuopio :‡fKopijyvä)
+300    ‡a207 s. ;‡c21 cm.
+336    ‡ateksti‡btxt‡2rdacontent
+337    ‡akäytettävissä ilman laitetta‡bn‡2rdamedia
+338    ‡anide‡bnc‡2rdacarrier
+610 24 ‡aEuroopan unioni.‡9FENNI<KEEP>
+610 24 ‡aEuropeiska unionen.
+650  7 ‡aintegraatio‡zEurooppa‡2ysa‡9FENNI<KEEP>
+650  7 ‡akestävä kehitys‡2ysa‡9FENNI<KEEP>
+650  7 ‡amaatalous‡2ysa‡9FENNI<KEEP>
+650  7 ‡aköyhyys‡2ysa‡9FENNI<KEEP>
+650  7 ‡aEU-maat‡2ysa‡9FENNI<KEEP>
+650  7 ‡apoliittiset järjestelmät‡2ysa‡9FENNI<KEEP>
+650  7 ‡aäänestyskäyttäytyminen‡2ysa‡9FENNI<KEEP>
+650  7 ‡atalous‡2ysa‡9FENNI<KEEP>
+650  7 ‡atyöllisyys‡2ysa‡9FENNI<KEEP>
+650  7 ‡akilpailukyky‡2ysa‡9FENNI<KEEP>
+650  7 ‡ajulkinen talous‡2ysa‡9FENNI<KEEP>
+650  7 ‡asosiaalimenot‡2ysa‡9FENNI<KEEP>
+650  7 ‡asosiaalipolitiikka‡2ysa‡9FENNI<KEEP>
+650  7 ‡asocialpolitik‡2allars
+650  7 ‡aekonomisk politik‡2allars
+650  7 ‡aEU-länder‡2allars
+650  7 ‡aframtid‡2allars
+650  7 ‡alantbrukspolitik‡2allars
+650  7 ‡aekonomisk utveckling‡2allars
+650  7 ‡akonkurrenskraft‡2allars
+650  7 ‡amiljöpolitik‡2allars
+650  7 ‡aEU-politik‡2allars
+650  7 ‡ainkomstskillnader‡2allars
+650  7 ‡afattigdom‡2allars
+650  7 ‡ahållbar utveckling‡2allars
+651  7 ‡aEurooppa‡2ysa‡9FENNI<KEEP>
+651  7 ‡aSuomi‡2ysa‡9FENNI<KEEP>
+651  7 ‡aFinland‡2ysa
+651  7 ‡aEuropa‡2ysa
+651  7 ‡aFinland‡2allars
+651  7 ‡aEuropa‡2allars
+700 1  ‡aRaunio, Tapio.
+700 1  ‡aSaari, Juho.
+700 1  ‡aSilfverberg, Katri.
+SID    ‡c1036635‡bfenni
+SID    ‡c2490883‡bhelka
+CAT    ‡aLOAD-FENNI‡b‡c20131023‡lFIN01‡h2236
+CAT    ‡aLOAD-FENNI‡b‡c20140102‡lFIN01‡h2249
+CAT    ‡aLOAD-FIX‡b‡c20140116‡lFIN01‡h2122
+CAT    ‡aLOAD-FIX‡b‡c20140204‡lFIN01‡h0048
+CAT    ‡aARKEN1001‡b30‡c20140704‡lFIN01‡h1508
+CAT    ‡aARKEN1001‡b30‡c20140704‡lFIN01‡h1507
+CAT    ‡aARKEN1001‡b30‡c20140704‡lFIN01‡h1509
+CAT    ‡aLOAD-HELKA‡b‡c20141010‡lFIN01‡h2328
+CAT    ‡aLOAD-FIX‡b30‡c20150124‡lFIN01‡h1053
+CAT    ‡aLOAD-FIX‡b30‡c20150324‡lFIN01‡h1550
+CAT    ‡aLOAD-HELKA‡b‡c20150721‡lFIN01‡h2328
+CAT    ‡aLOAD-FIX‡b30‡c20160110‡lFIN01‡h0045
+CAT    ‡aCONV-RDA‡b‡c20160319‡lFIN01‡h0832
+CAT    ‡c20160330‡lFIN01‡h0942
+CAT    ‡aMINTTU‡b30‡c20161201‡lFIN01‡h1408
+901    ‡aMU20140102‡5FENNI
+LOW    ‡aARKEN
+LOW    ‡aFENNI
+LOW    ‡aHELKA
+LOW    ‡aJYKDO
+LOW    ‡aSELMA
+LOW    ‡aVOLTE

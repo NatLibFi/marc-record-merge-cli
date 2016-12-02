@@ -1,0 +1,78 @@
+LDR    00000cam^a22008654i^4500
+001    006404940
+003    FI-MELINDA
+005    20161201140837.0
+008    130808s2013^^^^fi^|||||||||||00|^0|swe|^
+020    ‡a978-952-495-317-7‡qhäftad
+035    ‡a(FI-MELINDA)006404940
+041 1  ‡aswe
+072  7 ‡a65‡2kkaa
+080    ‡a338.4
+080    ‡a364
+080    ‡a327
+080    ‡a339.5/.9
+080    ‡a32
+084    ‡a36.63‡2ykl
+084    ‡a33‡2uef
+084    ‡a32.51‡2ykl
+245 00 ‡aEuropas bästa land? :‡bFinlands roll i förändring i Europeiska unionen /‡credigerad av Tapio Raunio & Juho Saari.
+246 30 ‡aFinlands roll i förändring i Europeiska unionen
+260    ‡a[Helsinki] :‡bGaudeamus,‡c2013‡e(Kuopio :‡fKopijyvä)
+300    ‡a199 s. :‡bill. ;‡c21 cm.
+336    ‡atext‡btxt‡2rdacontent
+337    ‡aoförmedlad‡bn‡2rdamedia
+338    ‡avolym‡bnc‡2rdacarrier
+579    ‡aXLUETTELOITU‡bhanna
+610 24 ‡aEuroopan unioni.
+610 24 ‡aEuropeiska unionen.
+650  7 ‡aEU-politiikka‡2ysa
+650  7 ‡atalouspolitiikka‡2ysa
+650  7 ‡ataloudellinen kehitys‡2ysa
+650  7 ‡akilpailukyky‡2ysa
+650  7 ‡aympäristöpolitiikka‡2ysa
+650  7 ‡atuloerot‡2ysa
+650  7 ‡aköyhyys‡2ysa
+650  7 ‡amaatalouspolitiikka‡2ysa
+650  7 ‡atulevaisuus‡2ysa
+650  7 ‡aEU-politik‡2allars‡9DIAK<KEEP>
+650  7 ‡aEU-länder‡2allars‡9DIAK<KEEP>
+650  7 ‡ahållbar utveckling‡2allars‡9DIAK<KEEP>
+650  7 ‡aekonomisk politik‡2allars‡9DIAK<KEEP>
+650  7 ‡aekonomisk utveckling‡2allars‡9DIAK<KEEP>
+650  7 ‡akonkurrenskraft‡2allars‡9DIAK<KEEP>
+650  7 ‡amiljöpolitik‡2allars‡9DIAK<KEEP>
+650  7 ‡asocialpolitik‡2allars‡9DIAK<KEEP>
+650  7 ‡ainkomstskillnader‡2allars‡9DIAK<KEEP>
+650  7 ‡afattigdom‡2allars‡9DIAK<KEEP>
+650  7 ‡alantbrukspolitik‡2allars‡9DIAK<KEEP>
+650  7 ‡aframtid‡2allars‡9DIAK<KEEP>
+651  7 ‡aSuomi‡2ysa
+651  7 ‡aFinland‡2allars
+651  7 ‡aEurooppa‡2ysa
+651  7 ‡aEuropa‡2allars
+650  7 ‡akestävä kehitys‡2ysa
+650  7 ‡asosiaalipolitiikka‡2ysa
+700 1  ‡aRaunio, Tapio,‡eredaktör.
+700 1  ‡aSaari, Juho,‡eredaktör.
+700 1  ‡aKiander, Jaakko.
+856 41 ‡uhttp://www.eurooppatiedotus.fi/public/download.aspx?ID=116045&GUID={67114CBE-0082-450B-86BF-9466906EB68B}‡yLänk till e-boken
+SID    ‡c(ANDL100001)2927829‡bvaski
+CAT    ‡aZ4002‡b30‡c20130808‡lFIN01‡h1251
+CAT    ‡aZ4002‡b30‡c20130808‡lFIN01‡h1511
+CAT    ‡aZ4002‡b30‡c20130808‡lFIN01‡h1512
+CAT    ‡aABO4008‡b30‡c20131101‡lFIN01‡h1354
+CAT    ‡aDIAK4101‡b30‡c20131202‡lFIN01‡h1643
+CAT    ‡aDIAK4101‡b30‡c20131202‡lFIN01‡h1646
+CAT    ‡aDIAK4101‡b30‡c20131202‡lFIN01‡h1649
+CAT    ‡aLOAD-FIX‡b30‡c20150124‡lFIN01‡h0851
+CAT    ‡aLOAD-FIX‡b30‡c20150324‡lFIN01‡h1345
+CAT    ‡aLOAD-FIX‡b30‡c20150706‡lFIN01‡h2048
+CAT    ‡aCONV-RDA‡b‡c20160319‡lFIN01‡h0830
+CAT    ‡c20160330‡lFIN01‡h0940
+CAT    ‡aLOAD-VASKI‡b‡c20161121‡lFIN01‡h1024
+CAT    ‡aMINTTU‡b30‡c20161201‡lFIN01‡h1408
+LOW    ‡aALMA
+LOW    ‡aDIAK
+LOW    ‡aHANNA
+LOW    ‡aOULA
+LOW    ‡aVASKI
