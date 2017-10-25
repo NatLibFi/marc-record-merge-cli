@@ -1,13 +1,23 @@
 {
   "name": "marc-record-merge-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Command line utility for testing marc-record-merge rules",
+  "homepage": "https://github.com/natlibfi/marc-record-merge-cli",
+  "bugs": {
+    "url": "https://github.com/natlibfi/marc-record-merge-cli/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:natlibfi/marc-record-merge-cli.git"
+  },
+  "license": "AGPL-3.0+",
+  "author": {
+    "name": "The National Library of Finland"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pasi Tuominen <pasi.tuominen@gmail.com>",
-  "license": "ISC",
   "dependencies": {
     "marc-record-js": "^0.3.1",
     "marc-record-merge": "^2.0.1"
