@@ -20,6 +20,6 @@
   },
   "dependencies": {
     "marc-record-js": "^0.3.1",
-    "marc-record-merge": "^2.0.1"
+    "@natlibfi/marc-record-merge": "^5.0.0"
   }
 }

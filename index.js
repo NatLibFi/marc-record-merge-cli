@@ -29,7 +29,7 @@
 const path = require('path');
 const fs = require('fs');
 const MarcRecord = require('marc-record-js');
-const createRecordMerger = require('marc-record-merge');
+const createRecordMerger = require('@natlibfi/marc-record-merge');
 let mergeConfiguration, preferredRecord, otherRecord;
 
 const args = process.argv.slice(2);
